@@ -1,0 +1,11 @@
+{
+  "id": "local-img",
+  "name": "Local Img",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Download images from the internet and save them to the local file system.",
+  "author": "Ian Tsang",
+  "authorUrl": "https://hulebaji.me/portfolios/local-img/",
+  "isDesktopOnly": false,
+  "fundingUrl": "https://buymeacoffee.com/hulebaji"
+} 
